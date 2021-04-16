@@ -1,0 +1,14 @@
+
+a = int(input("enter how many times"))
+x = int(input("enter the number"))
+for i in the range(a):
+  y = x/2
+  z = y+y+y
+  b = z/2
+  y = b
+  
+  
+  i+=1
+  
+  
+print(b)
